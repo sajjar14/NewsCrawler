@@ -20,7 +20,7 @@ Step 2: Setup Code
 
 1. Download the code
 
-2. The code directory contains a requirements.txt file that contains all the required libraries that need to be executed
+2. Go to the code directory. It has a requirements.txt file that contains all the required libraries that need to be executed
 
 3. To install the libraries via requirements file, execute the following command:
 pip3 install -r requirements.txt
